@@ -49,7 +49,7 @@ Web app com IA para orientar políticas públicas de inclusão digital e emprego
 
 | Repositório | Descrição |
 |---|---|
-| [**appbit**](https://github.com/wongola-bit/appbit) | Desafios, Starter Kits e dataset Vísent CDRView |
+| [**appbit**](https://github.com/wongola-bit/appbit) | Dataset Vísent CDRView e Starter Kits |
 
 ---
 
